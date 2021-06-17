@@ -1,12 +1,12 @@
 *.xla diff=xl
 *.xlam diff=xl
-*.xlsb diff=xl
 *.xlsm diff=xl
-*.xlt diff=xl
 *.xltm diff=xl
-*.xltx diff=xl
 *.xls diff=tika
 *.xlsx diff=tika
+*.xlt diff=tika
+*.xltx diff=tika
+*.xlsb diff=tika
 *.doc diff=tika
 *.docx diff=tika
 *.ppt diff=tika

@@ -29,7 +29,11 @@
 
 - [VSCode]
 
+  ステージすれば変更箇所が見える（ステージしないと見えない）
+
   [Git History][history] の Extension を追加すれば過去の変更箇所も見える
+
+  マクロの変更は見えない
 
 - [Tortoise Git][tortoise]
 
